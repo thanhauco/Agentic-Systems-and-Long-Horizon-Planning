@@ -1,0 +1,4 @@
+*.pyc
+__pycache__/
+agent_state.db
+.pytest_cache/
