@@ -46,8 +46,9 @@ class AgentState:
         )
 
 class BaseAgent:
-    def __init__(self, state: Optional[AgentState] = None):
+    def __init__(self, state: Optional[AgentState] = None, memory: Any = None):
         self.state = state or AgentState()
+        self.memory = memory
 
     def transition_to(self, new_status: AgentStatus):
         print(f"[Agent {self.state.agent_id}] Transitioning: {self.state.status.name} -> {new_status.name}")
