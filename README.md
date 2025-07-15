@@ -22,8 +22,8 @@ This project is a deep dive into building reliable multi-step agents. Most auton
 ## 🛠 Installation
 
 ```bash
-git clone https://github.com/thanhauco/pulsing-nova.git
-cd pulsing-nova
+git clone https://github.com/thanhauco/Agentic-Systems-and-Long-Horizon-Planning.git
+cd Agentic-Systems-and-Long-Horizon-Planning
 pip install -r requirements.txt
 ```
 

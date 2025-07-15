@@ -52,6 +52,7 @@ pulsing-nova/
 - [x] Hierarchical task decomposition
 - [x] Plan validation with cycle detection
 - [x] Checkpoint and rollback system
+- [x] Reasoning trace logging
 
 ### Phase 3: Autonomy Analysis [COMPLETED]
 
@@ -64,7 +65,7 @@ pulsing-nova/
 
 - [x] Goal drift detection
 - [x] Recovery strategies (retry, rollback, escalate)
-- [ ] Reasoning degradation simulator
+- [x] Reasoning degradation simulator
 
 ### Phase 5: Documentation & Examples [COMPLETED]
 
@@ -77,4 +78,4 @@ pulsing-nova/
 - [x] Semantic Memory (Persistent retrieval of lessons learned)
 - [x] Multi-Agent Orchestration Mesh
 - [x] Self-Reflection & Reasoning Correction loops
-- [ ] Advanced Tool Registry with capability constraints
+- [x] Advanced Tool Registry with capability constraints
