@@ -5,7 +5,7 @@ A deep exploration of multi-step autonomous agents with persistent state, retry 
 ## Project Structure
 
 ```
-pulsing-nova/
+Agentic-Systems-and-Long-Horizon-Planning/
 ├── README.md                    # Architecture overview & analysis
 ├── requirements.txt             # Python dependencies
 ├── src/
